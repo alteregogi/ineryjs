@@ -65,7 +65,7 @@ const api = new Api({ rpc, signatureProvider });
       data: {
         from: 'user1',
         to: 'user2',
-        quantity: '0.0001 INR',
+        quantity: '5000 INR',
         memo: ''
       }
     }]
